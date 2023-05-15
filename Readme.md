@@ -19,7 +19,6 @@ This example demonstrates how to create and use a [DateRangeControl](https://doc
 ## Documentation
 
 * [DateRangeControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.DateRangeControl)
-* 
 
 <!-- default file list -->
 ## Files to Review
