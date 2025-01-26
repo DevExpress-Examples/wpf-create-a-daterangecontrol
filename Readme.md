@@ -7,7 +7,7 @@
 
 # WPF DateRangeControl — Create a Control
 
-This example demonstrates how to create and use a [DateRangeControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.DateRangeControl) in an application that searches for flight tickets.
+This example creates a [DateRangeControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.DateRangeControl) that allows users to search for flight tickets.
 
 ![Use a DateRangeControl](images/daterangecontrol.gif)
 
